@@ -51,5 +51,5 @@
 
 
 
-> https://d2.naver.com/helloworld/24942
-> https://earlybird.kr/1584
+>- https://d2.naver.com/helloworld/24942
+>- https://earlybird.kr/1584
