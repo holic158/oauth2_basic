@@ -1,6 +1,8 @@
 
 # Open standard for access delegation (OAuth)
 
+OAuth2.0 cookbook의 예제를 통한 OAuth 소개
+
 [TOC]
 
 ## OAuth
